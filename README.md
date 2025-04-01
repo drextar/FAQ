@@ -1,4 +1,4 @@
-# API Gateway – Integração Seller Itaú Shop
+# API Gateway – Integração
 
 Este documento serve como um guia de integração e FAQ para parceiros que desejam utilizar a **API Gateway de Integração Seller Itaú Shop**. Ele aborda conceitos, fluxos de negócio e dúvidas frequentes, auxiliando tanto o time de suporte quanto os desenvolvedores dos parceiros.
 
